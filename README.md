@@ -5,5 +5,5 @@
 
 YOLOv5 모델로 상품 이미지를 학습시켜 tflite로 변환하였다.
 
-https://github.com/AarohiSingla/TFLite-Object-Detection-Android-App-Tutorial-Using-YOLOv5.git 프로젝트를 인용하여
+https://github.com/AarohiSingla/TFLite-Object-Detection-Android-App-Tutorial-Using-YOLOv5.git 프로젝트를 인용하였다.
 가장 크게 보이는 상품 한 개만 검출하도록 코드를 수정하고, 음성 기술을 추가하였다.
